@@ -12,7 +12,7 @@ Customer details (gender, age, region etc.) Details of his/her relationship with
 
 ## Data Dictionary
 
--- ID: Unique Identifier for a row
+- ID: Unique Identifier for a row
 
 Gender: Gender of the Customer
 
