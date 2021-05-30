@@ -10,8 +10,9 @@ Now, the bank is looking for your help in identifying customers that could show 
 
 Customer details (gender, age, region etc.) Details of his/her relationship with the bank (Channel_Code,Vintage, 'Avg_Asset_Value etc.)
 
-Data Dictionary
-ID: Unique Identifier for a row
+## Data Dictionary
+
+-- ID: Unique Identifier for a row
 
 Gender: Gender of the Customer
 
