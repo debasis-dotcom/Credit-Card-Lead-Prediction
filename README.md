@@ -48,14 +48,14 @@ Customer details (gender, age, region etc.) Details of his/her relationship with
 
 - Region_Code: Code of the Region for the customers
 
-Occupation: Occupation Type for the customer
+- Occupation: Occupation Type for the customer
 
-Channel_Code: Acquisition Channel Code for the Customer (Encoded)
+- Channel_Code: Acquisition Channel Code for the Customer (Encoded)
 
-Vintage: Vintage for the Customer (In Months)
+- Vintage: Vintage for the Customer (In Months)
 
-Credit_Product: If the Customer has any active credit product (Home loan, Personal loan, Credit Card etc.)
+- Credit_Product: If the Customer has any active credit product (Home loan, Personal loan, Credit Card etc.)
 
-Avg_Account_Balance: Average Account Balance for the Customer in last 12 Months
+- Avg_Account_Balance: Average Account Balance for the Customer in last 12 Months
 
-Is_Active: If the Customer is Active in last 3 Months
+- Is_Active: If the Customer is Active in last 3 Months
